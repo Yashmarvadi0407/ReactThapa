@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    margin-top: 5%;
+    align-items: center;
+    justify-content: center;
+}
+.table{
+    margin-top: 2px;
+    border:1px solid black;
+}
+thead{
+    border:1px solid black;
+}
+tr{
+    border:1px solid black;
+}

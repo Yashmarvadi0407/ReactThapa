@@ -1,0 +1,20 @@
+                   ------------- Next.Js --------------
+
+1.next.js  is work on file base routing..it means no need to 
+  import Browser Router and routes from react-router-dom ..
+  simply we need to type path in our url..
+
+2.if we need to get dynamic routing then we will  create filename 
+  in [].js (bracket)..then use UseRouter() hook in "next/router".
+
+3.if we create our custom Error page so we will create file with 404.js name.
+ .(it is complasury to keep file name 404.js) 
+
+4.if we wish to click button and redirect on other page then ...what we can do ?
+  so Answer is we need to import UseRouter hook..and use push("/") mehod .
+  .and inside push method write oyher page url...
+
+5.in Next js we wish to add img so we can use <Image> tag..with is different 
+  in react js.
+
+6.

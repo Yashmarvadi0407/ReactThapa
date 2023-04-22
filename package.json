@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "emoji": "^0.3.2",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.10.0",
+    "vercel": "^28.18.3"
+  }
+}
